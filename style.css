@@ -1,0 +1,7 @@
+body{background-color:bisque;}
+.left{color:rgb(56, 21, 21);}
+#form{width:320px;height:140px;background-color:rgb(164, 186, 228);padding-top: 40px;margin-top:50px;border:2px solid black;border-radius: 10px;}
+.right{color:rgb(56, 21, 21);margin-top:-50px;}
+#posts{width:320px;height:400px;background-color:rgb(164, 186, 228);padding-top: 50px;margin-top:80px;border:2px solid black;border-radius: 10px;}
+h4{margin-top: -25px;}
+u{color: rgb(56,21,21);}
